@@ -1,0 +1,21 @@
+_id: req_5b9e5279da604e7abbcc493e34257579
+type: Request
+parentId: fld_93b6eee0871449ac83154a3fdd8ad028
+modified: 1685406852328
+created: 1685405355758
+url: "{{ _.url }}/escape-rooms/1/time-slots"
+name: TimeSlots
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1685392705262
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

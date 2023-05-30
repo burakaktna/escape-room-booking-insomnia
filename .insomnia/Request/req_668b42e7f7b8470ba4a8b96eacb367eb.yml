@@ -1,0 +1,36 @@
+_id: req_668b42e7f7b8470ba4a8b96eacb367eb
+type: Request
+parentId: fld_f7c149b5010a494495ec691cfa72987b
+modified: 1685411818130
+created: 1685405747220
+url: "  {{ _.url }}/bookings"
+name: Store
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"escape_room_id": 1,
+    	"time_slot_id": 10,
+    	"participant_count": 1
+    }
+parameters: []
+headers:
+  - id: pair_8b8e03df6a214465a87ee6805d5fa4bf
+    name: Accept
+    value: application/json
+    description: ""
+  - name: Content-Type
+    value: application/json
+authentication:
+  type: bearer
+  token: 1|RLwRJ836xXYkjU5uNP3x2tinQwcHCr66t9YEC7oy
+metaSortKey: -1685396860729
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

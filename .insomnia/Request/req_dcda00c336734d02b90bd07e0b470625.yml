@@ -1,0 +1,21 @@
+_id: req_dcda00c336734d02b90bd07e0b470625
+type: Request
+parentId: fld_93b6eee0871449ac83154a3fdd8ad028
+modified: 1685405299543
+created: 1685405171663
+url: "  {{ _.url }}/escape-rooms"
+name: Index
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1685405171663
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

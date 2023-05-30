@@ -1,0 +1,36 @@
+_id: req_2bf3b2d9f19f45c8869e8e6cc6d6f4cb
+type: Request
+parentId: fld_f3c2223d1425429d8119b4c3fc7ceec6
+modified: 1685411675471
+created: 1685388549795
+url: "{{ _.url }}/register"
+name: Register
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"name": "Burak AKTUNA",
+    	"email": "burak.aktna@gmail.com",
+    	"date_of_birth": "01.01.2000",
+    	"password": "test1234",
+    	"password_confirmation": "test1234"
+    }
+parameters: []
+headers:
+  - id: pair_b8f23a43da4f48468d5d21bde7c100c4
+    name: Accept
+    value: application/json
+    description: ""
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1685409763104
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

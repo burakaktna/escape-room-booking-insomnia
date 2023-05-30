@@ -1,0 +1,14 @@
+_id: env_86fa147b5598442c858f854f6f3075fb
+type: Environment
+parentId: env_39baa5fc3900e97af0130b56d3da17ff52ebbdea
+modified: 1685388789737
+created: 1685388558982
+name: Docker
+data:
+  url: localhost:8000/api
+dataPropertyOrder:
+  "&":
+    - url
+color: null
+isPrivate: false
+metaSortKey: 1685388558983

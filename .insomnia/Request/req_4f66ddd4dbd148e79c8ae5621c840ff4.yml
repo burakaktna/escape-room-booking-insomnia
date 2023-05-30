@@ -1,0 +1,28 @@
+_id: req_4f66ddd4dbd148e79c8ae5621c840ff4
+type: Request
+parentId: fld_f7c149b5010a494495ec691cfa72987b
+modified: 1685411770373
+created: 1685405747217
+url: "  {{ _.url }}/bookings"
+name: Index
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - id: pair_006324e5b0054b2abc66aeed79338865
+    name: Accept
+    value: application/json
+    description: ""
+authentication:
+  type: bearer
+  token: 1|RLwRJ836xXYkjU5uNP3x2tinQwcHCr66t9YEC7oy
+  disabled: false
+metaSortKey: -1685405171663
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

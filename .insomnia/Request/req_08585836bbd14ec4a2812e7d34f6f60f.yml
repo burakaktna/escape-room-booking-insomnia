@@ -1,0 +1,33 @@
+_id: req_08585836bbd14ec4a2812e7d34f6f60f
+type: Request
+parentId: fld_f3c2223d1425429d8119b4c3fc7ceec6
+modified: 1685409766634
+created: 1685389740766
+url: "  {{ _.url }}/login"
+name: Login
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"email": "burak.aktna@gmail.com",
+    	"password": "test1234"
+    }
+parameters: []
+headers:
+  - id: pair_b8f23a43da4f48468d5d21bde7c100c4
+    name: Accept
+    value: application/json
+    description: ""
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1685409763054
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

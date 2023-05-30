@@ -1,0 +1,27 @@
+_id: req_20f408de274b447e979785ecd266ef67
+type: Request
+parentId: fld_f7c149b5010a494495ec691cfa72987b
+modified: 1685412553203
+created: 1685405747222
+url: "{{ _.url }}/bookings/57"
+name: Delete
+description: ""
+method: DELETE
+body: {}
+parameters: []
+headers:
+  - id: pair_a6772717fb464ce4aa3a9cf1d140ea59
+    name: Accept
+    value: application/json
+    description: ""
+authentication:
+  type: bearer
+  token: 1|RLwRJ836xXYkjU5uNP3x2tinQwcHCr66t9YEC7oy
+metaSortKey: -1685392705262
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
